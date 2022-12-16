@@ -1,3 +1,12 @@
-* {
-    font-size: larger;
+#info-back-img {
+    top: 6px;
+    margin-left: 5px;
+    /* border-radius: 20px; */
+    border-top-left-radius: 19px;
+    border-top-right-radius: 20px;
 }
+
+.profile-image {
+    margin-top: -3rem;
+};
+
